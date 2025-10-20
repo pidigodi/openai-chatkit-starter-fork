@@ -9,7 +9,6 @@ export const STARTER_PROMPTS: StartScreenPrompt[] = [
   {
     label: "Here's what I can do for you!",
     prompt: "Here's what I can do for you!",
-    icon: "circle-question",
   },
 ];
 
