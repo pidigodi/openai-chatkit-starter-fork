@@ -7,14 +7,15 @@ export const CREATE_SESSION_ENDPOINT = "/api/create-session";
 
 export const STARTER_PROMPTS: StartScreenPrompt[] = [
   {
-    label: "Here's what I can do for you!",
-    prompt: "Here's what I can do for you!",
+    label: "Take a look what I can do for you!",
+    prompt: "Take a look what I can do for you!",
+    icon: "circle-question",
   },
 ];
 
 export const PLACEHOLDER_INPUT = "Where to next?...";
 
-export const GREETING = "Post your trip details and get the best offers — no need to chase quotes!";
+export const GREETING = "Whether you need group transport for a corporate event, school excursion, day tour, wedding, or a major sporting event, our easy-to-use platform connects you with trusted bus and coach operators nationwide. Simply post your trip details and get the best offers — no need to chase quotes!";
 
 export const getThemeConfig = (theme: ColorScheme): ThemeOption => ({
   color: {
