@@ -3,8 +3,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Bus Charter | New Zealand",
-  description: "Looking for affordable bus charter services for your group or event? Post your trip once and receive the best quotes from verified operators across the country",
+  title: "Auckland Bus Charters | New Zealand",
+  description: "Reliable bus charter and group transport in South and East Auckland for corporate events, school trips, weddings, day tours, and sporting events.",
 };
 
 export default function RootLayout({
